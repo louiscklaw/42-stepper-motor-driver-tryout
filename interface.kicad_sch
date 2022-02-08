@@ -413,6 +413,8 @@
     (uuid 8e03561e-2deb-4419-ae51-65c0a0e822ba)
   )
 
+  (no_connect (at 40.64 59.69) (uuid 7d1d5415-be5a-45a1-9e31-56b8741ecee4))
+
   (wire (pts (xy 50.8 22.86) (xy 50.8 26.67))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 00ccc738-8812-48fe-ab04-827e370835a1)
