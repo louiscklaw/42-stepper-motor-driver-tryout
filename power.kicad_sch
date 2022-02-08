@@ -2591,7 +2591,7 @@
   (symbol (lib_id "taobao-c:C103,0805") (at 78.74 91.44 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9d1ee0b7-8453-459c-a833-897b79b8b1c4)
-    (property "Reference" "C?" (id 0) (at 78.7463 85.09 90))
+    (property "Reference" "C23" (id 0) (at 78.7463 85.09 90))
     (property "Value" "C103,0805" (id 1) (at 78.7463 87.63 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 78.74 91.44 0)
       (effects (font (size 1.27 1.27)) hide)

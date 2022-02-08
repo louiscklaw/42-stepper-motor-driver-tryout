@@ -1,4 +1,4 @@
-20441234560399631
+20437945946506628
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55643,6 +55643,34 @@ solder jumper open
 5
 3
 LCSC
+5558872-1
+5558872-1 footprint
+5558872-1 footprint
+0
+4
+4
+LCSC
+HR911205C
+HR911205C footprint
+HR911205C footprint
+0
+27
+27
+LCSC
+LP2992IM5-2.5_NOPB
+LP2992IM5-2.5_NOPB footprint
+LP2992IM5-2.5_NOPB footprint
+0
+5
+5
+LCSC
+LP2992IM5-3.3_NOPB
+LP2992IM5-3.3_NOPB footprint
+LP2992IM5-3.3_NOPB footprint
+0
+5
+5
+LCSC
 ME3116AM6G
 ME3116AM6G footprint
 ME3116AM6G footprint
@@ -86946,48 +86974,6 @@ Through hole socket strip THT 2x09 2.54mm double row
 0
 18
 18
-lcsc_parts
-LP2992IM5-2.5_NOPB
-LP2992IM5-2.5_NOPB footprint
-LP2992IM5-2.5_NOPB footprint
-0
-5
-5
-lcsc_parts
-ME3116AM6G
-ME3116AM6G footprint
-ME3116AM6G footprint
-0
-6
-6
-lcsc_parts
-MT6816CT-ACD
-MT6816CT-ACD footprint
-MT6816CT-ACD footprint
-0
-8
-8
-lcsc_parts
-SN65HVD232DRG4
-SN65HVD232DRG4 footprint
-SN65HVD232DRG4 footprint
-0
-8
-8
-lcsc_parts
-STM32F103CBT6TR
-STM32F103CBT6TR footprint
-STM32F103CBT6TR footprint
-0
-48
-48
-lcsc_parts
-TB67H450FNG,EL
-TB67H450FNG,EL footprint
-TB67H450FNG,EL footprint
-0
-9
-9
 my_connector_lib
 RJ45_NETWORK_SOCKET_1CH
 RJ45 插座網口 8P8C 帶燈帶屏蔽 銅殼短款
