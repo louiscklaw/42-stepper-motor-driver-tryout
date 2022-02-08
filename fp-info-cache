@@ -1,4 +1,4 @@
-20423147105312720
+20441234560399631
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55642,6 +55642,41 @@ solder jumper open
 0
 5
 3
+LCSC
+ME3116AM6G
+ME3116AM6G footprint
+ME3116AM6G footprint
+0
+6
+6
+LCSC
+MT6816CT-ACD
+MT6816CT-ACD footprint
+MT6816CT-ACD footprint
+0
+8
+8
+LCSC
+SN65HVD232DRG4
+SN65HVD232DRG4 footprint
+SN65HVD232DRG4 footprint
+0
+8
+8
+LCSC
+STM32F103CBT6TR
+STM32F103CBT6TR footprint
+STM32F103CBT6TR footprint
+0
+48
+48
+LCSC
+TB67H450FNG,EL
+TB67H450FNG,EL footprint
+TB67H450FNG,EL footprint
+0
+9
+9
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -86657,8 +86692,8 @@ microswitch_6_6_5
 
 
 0
-0
-0
+2
+2
 footprint-lib
 mouse-bite-2mm-5mm-slot
 
@@ -86911,6 +86946,48 @@ Through hole socket strip THT 2x09 2.54mm double row
 0
 18
 18
+lcsc_parts
+LP2992IM5-2.5_NOPB
+LP2992IM5-2.5_NOPB footprint
+LP2992IM5-2.5_NOPB footprint
+0
+5
+5
+lcsc_parts
+ME3116AM6G
+ME3116AM6G footprint
+ME3116AM6G footprint
+0
+6
+6
+lcsc_parts
+MT6816CT-ACD
+MT6816CT-ACD footprint
+MT6816CT-ACD footprint
+0
+8
+8
+lcsc_parts
+SN65HVD232DRG4
+SN65HVD232DRG4 footprint
+SN65HVD232DRG4 footprint
+0
+8
+8
+lcsc_parts
+STM32F103CBT6TR
+STM32F103CBT6TR footprint
+STM32F103CBT6TR footprint
+0
+48
+48
+lcsc_parts
+TB67H450FNG,EL
+TB67H450FNG,EL footprint
+TB67H450FNG,EL footprint
+0
+9
+9
 my_connector_lib
 RJ45_NETWORK_SOCKET_1CH
 RJ45 插座網口 8P8C 帶燈帶屏蔽 銅殼短款
