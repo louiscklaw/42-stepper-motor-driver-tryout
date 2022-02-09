@@ -1,4 +1,4 @@
-20437945946506628
+20503719319356075
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55643,6 +55643,20 @@ solder jumper open
 5
 3
 LCSC
+4D03WGJ0000T5E
+4D03WGJ0000T5E, 200mA 1 450m�� 600��@100MHz ��25% 0603 Ferrite Beads ROHS
+Resistors, Resistor Networks & Arrays
+0
+8
+8
+LCSC
+0603B823K500NT
+GZ1608D601TF, 200mA 1 450m�� 600��@100MHz ��25% 0603 Ferrite Beads ROHS
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
 5558872-1
 5558872-1 footprint
 5558872-1 footprint
@@ -55650,12 +55664,152 @@ LCSC
 4
 4
 LCSC
+CBG160808U560T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG160808U600T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG160808U680T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG160808U820T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG201209U680T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG201209U820T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG321609U560T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG321609U600T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG321609U680T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+CBG321609U820T
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ1608D151TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ1608D220TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ1608D601TF
+GZ1608D601TF, 200mA 1 450m�� 600��@100MHz ��25% 0603 Ferrite Beads ROHS
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ2012D101TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ2012D220TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ2012D560TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ2012D600TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
+GZ2012D601TF
+
+Filters/EMI Optimization, Ferrite Beads
+0
+2
+2
+LCSC
 HR911205C
 HR911205C footprint
 HR911205C footprint
 0
 27
 27
+LCSC
+KF250NH-5.0-9P
+KF250NH-5.0-9P footprint
+KF250NH-5.0-9P footprint
+0
+9
+9
+LCSC
+KF2510-3AW
+KF2510-3AW footprint
+KF2510-3AW footprint
+0
+3
+3
 LCSC
 LP2992IM5-2.5_NOPB
 LP2992IM5-2.5_NOPB footprint
@@ -55685,6 +55839,41 @@ MT6816CT-ACD footprint
 8
 8
 LCSC
+RS-06K683JT
+RS-06K683JT footprint
+RS-06K683JT footprint
+0
+2
+2
+LCSC
+SDCL1608C8N2JTDF
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+SDFL1608Q2R2KTF
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+SDFL1608Q4R7KTF
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+SDFL1608S100KTF
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
 SN65HVD232DRG4
 SN65HVD232DRG4 footprint
 SN65HVD232DRG4 footprint
@@ -55705,6 +55894,69 @@ TB67H450FNG,EL footprint
 0
 9
 9
+LCSC
+VHF160808H1N0ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF160808H1N8ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF160808H2N2ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF160808H3N3ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF160808H4N7ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF160808H5N6ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF201209H1N8ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+VHF201209H2N2ST
+
+Inductors/Coils/Transformers, Inductors (SMD)
+0
+2
+2
+LCSC
+WJ142V-5.08-6P
+WJ142V-5.08-6P footprint
+WJ142V-5.08-6P footprint
+0
+12
+6
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf

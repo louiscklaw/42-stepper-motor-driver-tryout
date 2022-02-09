@@ -431,10 +431,10 @@
       (reference "D2") (unit 1) (value "SMBJ28CA") (footprint "Diode_SMD:D_SMB")
     )
     (path "/d7dee512-1141-4256-b411-29ff8008ec9a/9c167c24-9183-4e21-8d9a-df3d5da85de7"
-      (reference "D3") (unit 1) (value "SD_1N5819_SS14") (footprint "")
+      (reference "D3") (unit 1) (value "SD_1N5819_SS14") (footprint "Diode_SMD:D_SMA")
     )
     (path "/d7dee512-1141-4256-b411-29ff8008ec9a/16f49cb3-870f-484b-a7a7-2875b7bfa3df"
-      (reference "D4") (unit 1) (value "SD_1N5819_SS14") (footprint "")
+      (reference "D4") (unit 1) (value "SD_1N5819_SS14") (footprint "Diode_SMD:D_SMA")
     )
     (path "/9b7be77a-2656-471e-885e-8c6c59fe59f7"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "footprint-lib:MountingHole_3.1mm_M3,rpi_like")
